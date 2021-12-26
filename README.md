@@ -1,7 +1,7 @@
 # leetcode 
 ## directory structure
 ```
-|___ algorithm
-    |___ catagory
-        |___ {question number}_{question name}
+|__algorithm
+    |__catagory
+        |__{question number}_{question name}
 ```
